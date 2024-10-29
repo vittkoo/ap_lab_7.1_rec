@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS_projects\\ap_lab_7.1_rec\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8C67E68-8D60-4708-8122-35AC06D7B0DC}|..\\UnitTest_7.1_rec\\UnitTest_7.1_rec.vcxproj|D:\\VS_projects\\UnitTest_7.1_rec\\UnitTest_7.1_rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6C08BB-684D-40A4-8333-948273B30E0B}|ap_lab_7.1_rec.vcxproj|D:\\VS_projects\\ap_lab_7.1_rec\\lab_7.1_rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A6C08BB-684D-40A4-8333-948273B30E0B}|ap_lab_7.1_rec.vcxproj|solutionrelative:lab_7.1_rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest_7.1_rec.cpp",
+              "DocumentMoniker": "D:\\VS_projects\\UnitTest_7.1_rec\\UnitTest_7.1_rec.cpp",
+              "RelativeDocumentMoniker": "..\\UnitTest_7.1_rec\\UnitTest_7.1_rec.cpp",
+              "ToolTip": "D:\\VS_projects\\UnitTest_7.1_rec\\UnitTest_7.1_rec.cpp",
+              "RelativeToolTip": "..\\UnitTest_7.1_rec\\UnitTest_7.1_rec.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-29T17:25:53.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lab_7.1_rec.cpp",
+              "DocumentMoniker": "D:\\VS_projects\\ap_lab_7.1_rec\\lab_7.1_rec.cpp",
+              "RelativeDocumentMoniker": "lab_7.1_rec.cpp",
+              "ToolTip": "D:\\VS_projects\\ap_lab_7.1_rec\\lab_7.1_rec.cpp",
+              "RelativeToolTip": "lab_7.1_rec.cpp",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAFAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-29T17:21:24.064Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
